@@ -455,4 +455,281 @@ http://185.226.88.3:1036/live/backup/backup/84.m3u8
 http://185.226.88.3:1036/live/backup/backup/95.m3u8
 #EXTINF:0,3 Plus
 http://185.226.88.3:1036/live/backup/backup/76.m3u8
-tt
+#EXTINF:-1,AMC HD
+http://185.207.145.71:8000/play/a021/index.m3u8
+#EXTINF:-1,ANTENA 3 HD
+http://185.207.145.71:8000/play/a022/index.m3u8
+#EXTINF:-1,AXN HD
+http://185.207.145.71:8000/play/a01k/index.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://185.207.145.71:8000/play/a02y/index.m3u8
+#EXTINF:-1,BLAZE
+http://185.207.145.71:8000/play/a03b/index.m3u8
+#EXTINF:-1,CALLE 13 HD
+http://185.207.145.71:8000/play/a02f/index.m3u8
+#EXTINF:-1,CANAL DECASA
+http://185.207.145.71:8000/play/a034/index.m3u8
+#EXTINF:-1,CANAL ODISEA
+http://185.207.145.71:8000/play/a030/index.m3u8
+#EXTINF:-1,CAZA Y PESCA
+http://185.207.145.71:8000/play/a03a/index.m3u8
+#EXTINF:-1,CAZAyPESCA HD
+http://185.207.145.71:8000/play/a02r/index.m3u8
+#EXTINF:-1,COMEDYCENTRALHD
+http://185.207.145.71:8000/play/a02c/index.m3u8
+#EXTINF:-1,COSMO HD
+http://185.207.145.71:8000/play/a02b/index.m3u8
+#EXTINF:-1,CRIMEN+INVES
+http://185.207.145.71:8000/play/a03f/index.m3u8
+#EXTINF:-1,CUATRO HD
+http://185.207.145.71:8000/play/a023/index.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://185.207.145.71:8000/play/a03q/index.m3u8
+#EXTINF:-1,DAZN 2 HD
+http://185.207.145.71:8000/play/a03r/index.m3u8
+#EXTINF:-1,DISCOVERY
+http://185.207.145.71:8000/play/a03d/index.m3u8
+#EXTINF:-1,DISNEY CH HD
+http://185.207.145.71:8000/play/a02p/index.m3u8
+#EXTINF:-1,EUROSPORT1HD
+http://185.207.145.71:8000/play/a02g/index.m3u8
+#EXTINF:-1,FOX HD
+http://185.207.145.71:8000/play/a01t/index.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://185.207.145.71:8000/play/a028/index.m3u8
+#EXTINF:-1,HISTORIA
+http://185.207.145.71:8000/play/a03e/index.m3u8
+#EXTINF:-1,HOLLYWOODHD
+http://185.207.145.71:8000/play/a01w/index.m3u8
+#EXTINF:-1,LA 1 HD
+http://185.207.145.71:8000/play/a01p/index.m3u8
+#EXTINF:-1,LA SEXTA HD
+http://185.207.145.71:8000/play/a025/index.m3u8
+#EXTINF:-1,LALIGATV BAR
+http://185.207.145.71:8000/play/a033/index.m3u8
+#EXTINF:-1,LALIGATV BAR
+http://185.207.145.71:8000/play/a01m/index.m3u8
+#EXTINF:-1,M. ACCI©N HD
+http://185.207.145.71:8000/play/a01u/index.m3u8
+#EXTINF:-1,M. Cine Espaæol
+http://185.207.145.71:8000/play/a03g/index.m3u8
+#EXTINF:-1,M. DEPORTES
+http://185.207.145.71:8000/play/a032/index.m3u8
+#EXTINF:-1,M. DEPORTES1HD
+http://185.207.145.71:8000/play/a020/index.m3u8
+#EXTINF:-1,M. DEPORTESHD
+http://185.207.145.71:8000/play/a02h/index.m3u8
+#EXTINF:-1,M. DRAMA HD
+http://185.207.145.71:8000/play/a01v/index.m3u8
+#EXTINF:-1,M. GOLF HD
+http://185.207.145.71:8000/play/a02a/index.m3u8
+#EXTINF:-1,M. LaLiga
+http://185.207.145.71:8000/play/a035/index.m3u8
+#EXTINF:-1,M. LaLiga 1 HD
+http://185.207.145.71:8000/play/a01s/index.m3u8
+#EXTINF:-1,M. LaLiga 2 HD
+http://185.207.145.71:8000/play/a03h/index.m3u8
+#EXTINF:-1,M. LaLiga 3 HD
+http://185.207.145.71:8000/play/a03i/index.m3u8
+#EXTINF:-1,M. LaLiga HD
+http://185.207.145.71:8000/play/a01x/index.m3u8
+#EXTINF:-1,M. SERIES HD
+http://185.207.145.71:8000/play/a02l/index.m3u8
+#EXTINF:-1,M.COMEDIA HD
+http://185.207.145.71:8000/play/a01l/index.m3u8
+#EXTINF:-1,M.ESTRENOSHD
+http://185.207.145.71:8000/play/a038/index.m3u8
+#EXTINF:-1,M.FORMULA1HD
+http://185.207.145.71:8000/play/a01z/index.m3u8
+#EXTINF:-1,M.LCAMPEON1
+http://185.207.145.71:8000/play/a03j/index.m3u8
+#EXTINF:-1,M.LCAMPEON2
+http://185.207.145.71:8000/play/a03k/index.m3u8
+#EXTINF:-1,M.LCAMPEONES
+http://185.207.145.71:8000/play/a027/index.m3u8
+#EXTINF:-1,M.Seriesmania HD
+http://185.207.145.71:8000/play/a029/index.m3u8
+#EXTINF:-1,NAT GEO HD
+http://185.207.145.71:8000/play/a02i/index.m3u8
+#EXTINF:-1,NG WILD HD
+http://185.207.145.71:8000/play/a02o/index.m3u8
+#EXTINF:-1,NICKELODEON
+http://185.207.145.71:8000/play/a03c/index.m3u8
+#EXTINF:-1,NICKELODEONHD
+http://185.207.145.71:8000/play/a02e/index.m3u8
+#EXTINF:-1,PLAYBOY TV
+http://185.207.145.71:8000/play/a031/index.m3u8
+#EXTINF:-1,SYFY HD
+http://185.207.145.71:8000/play/a02t/index.m3u8
+#EXTINF:-1,TCM HD
+http://185.207.145.71:8000/play/a02m/index.m3u8
+#EXTINF:-1,TELECINCO HD
+http://185.207.145.71:8000/play/a024/index.m3u8
+#EXTINF:-1,TNT HD
+http://185.207.145.71:8000/play/a02n/index.m3u8
+#EXTINF:-1,TOROS HD
+http://185.207.145.71:8000/play/a02j/index.m3u8
+#EXTINF:-1,VIAJAR HD
+http://185.207.145.71:8000/play/a02v/index.m3u8
+
+http://83.222.34.62:9000/play/a0di/index.m3u8
+#EXTINF:-1,Eleven 1 HD Meo
+http://83.222.34.62:9000/play/a0dr/index.m3u8
+#EXTINF:-1,Eleven 2 HD Meo
+http://83.222.34.62:9000/play/a0dj/index.m3u8
+#EXTINF:-1,Eleven Sports 1
+http://83.222.34.62:9000/play/a0dm/index.m3u8
+#EXTINF:-1,RTP 2 HD
+http://83.222.34.62:9000/play/a0cn/index.m3u8
+#EXTINF:-1,RTP1
+http://83.222.34.62:9000/play/a0ck/index.m3u8
+#EXTINF:-1,SIC HD
+http://83.222.34.62:9000/play/a0co/index.m3u8
+#EXTINF:-1,SPORT TV 1 Meo
+http://83.222.34.62:9000/play/a0ev/index.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://83.222.34.62:9000/play/a0de/index.m3u8
+#EXTINF:-1,SPORT TV 2 Meo
+http://83.222.34.62:9000/play/a0ew/index.m3u8
+#EXTINF:-1,SPORT TV 3 HD Meo
+http://83.222.34.62:9000/play/a0df/index.m3u8
+#EXTINF:-1,SPORT TV 3 Meo
+http://83.222.34.62:9000/play/a0ex/index.m3u8
+#EXTINF:-1,Sport TV 1 HD
+http://83.222.34.62:9000/play/a0d1/index.m3u8
+#EXTINF:-1,Sport TV 2 HD
+http://83.222.34.62:9000/play/a0d2/index.m3u8
+#EXTINF:-1,Sport TV 3
+http://83.222.34.62:9000/play/a0ef/index.m3u8
+#EXTINF:-1,Sport TV 3 HD
+http://83.222.34.62:9000/play/a0d3/index.m3u8
+#EXTINF:-1,TVI HD
+http://83.222.34.62:9000/play/a0cp/index.m3u8
+
+http://92.246.85.95:234
+#EXTINF:-1,
+http://92.246.85.95:901
+#EXTINF:-1,BBC One HD
+http://92.246.85.95:999
+#EXTINF:-1,BBC Two HD
+http://92.246.85.95:1001
+#EXTINF:-1,
+http://92.246.85.95:1234
+#EXTINF:-1,Camera Deputati
+http://92.246.85.95:8002
+#EXTINF:-1,Rai 1
+http://92.246.85.95:8080
+#EXTINF:-1,Rai 2
+http://92.246.85.95:8081
+#EXTINF:-1,Rai 5
+http://92.246.85.95:8084
+#EXTINF:-1,Rai 3
+http://92.246.85.95:8082
+#EXTINF:-1,Rai 4
+http://92.246.85.95:8083
+#EXTINF:-1,Rai News 24
+http://92.246.85.95:8087
+#EXTINF:-1,Rai YoYo
+http://92.246.85.95:8088
+#EXTINF:-1,Rai Gulp
+http://92.246.85.95:8089
+#EXTINF:-1,Rai Movie
+http://92.246.85.95:8090
+#EXTINF:-1,Canale5 HD
+http://92.246.85.95:8091
+#EXTINF:-1,La 5
+http://92.246.85.95:8092
+#EXTINF:-1,Mediaset Extra
+http://92.246.85.95:8093
+#EXTINF:-1,Mediaset Italia Due
+http://92.246.85.95:8094
+#EXTINF:-1,Paramount Network HD
+http://92.246.85.95:8095
+#EXTINF:-1,People TV
+http://92.246.85.95:8096
+#EXTINF:-1, HD
+http://92.246.85.95:8097
+#EXTINF:-1,Super!
+http://92.246.85.95:8100
+#EXTINF:-1,TGCOM24
+http://92.246.85.95:8101
+#EXTINF:-1,TOPcrime
+http://92.246.85.95:8102
+#EXTINF:-1, HD
+http://92.246.85.95:8103
+#EXTINF:-1,VH1
+http://92.246.85.95:8104
+#EXTINF:-1,20 Mediaset HD
+http://92.246.85.95:8106
+#EXTINF:-1,Boing
+http://92.246.85.95:8107
+#EXTINF:-1,Cartoonito
+http://92.246.85.95:8108
+#EXTINF:-1,Cine34
+http://92.246.85.95:8109
+#EXTINF:-1,Focus
+http://92.246.85.95:8110
+#EXTINF:-1,Iris
+http://92.246.85.95:8112
+#EXTINF:-1,Italia1 HD
+http://92.246.85.95:8113
+#EXTINF:-1,K2
+http://92.246.85.95:8115
+#EXTINF:-1,Rai Premium
+http://92.246.85.95:8116
+#EXTINF:-1,Spike
+http://92.246.85.95:8099
+#EXTINF:-1,Rai Scuola
+http://92.246.85.95:8117
+#EXTINF:-1,Rai Sport
+http://92.246.85.95:8118
+#EXTINF:-1,
+http://92.246.85.95:8120
+#EXTINF:-1,
+http://92.246.85.95:8122
+#EXTINF:-1, HD
+http://92.246.85.95:8111
+#EXTINF:-1,
+http://92.246.85.95:8130
+#EXTINF:-1,
+http://92.246.85.95:8133
+#EXTINF:-1,Giallo HD
+http://92.246.85.95:8135
+#EXTINF:-1,
+http://92.246.85.95:8134
+#EXTINF:-1,GOLD TV
+http://92.246.85.95:8136
+#EXTINF:-1,HGTV Italy HD
+http://92.246.85.95:8138
+#EXTINF:-1,TVC
+http://92.246.85.95:8140
+#EXTINF:-1,POWER TV
+http://92.246.85.95:8139
+#EXTINF:-1,Nove HD
+http://92.246.85.95:8146
+#EXTINF:-1,MotorTrend HD
+http://92.246.85.95:8145
+#EXTINF:-1,Rete4 HD
+http://92.246.85.95:8150
+#EXTINF:-1,
+http://92.246.85.95:8105
+#EXTINF:-1,Rai Movie HD
+http://92.246.85.95:9001
+#EXTINF:-1,Rai 4 HD
+http://92.246.85.95:9004
+#EXTINF:-1,Rai 1 HD
+http://92.246.85.95:9000
+#EXTINF:-1,Rai 2 HD
+http://92.246.85.95:9002
+#EXTINF:-1,Rai 3 HD
+http://92.246.85.95:9003
+#EXTINF:-1,Rai Sport + HD
+http://92.246.85.95:9005
+
+
+
+
+
+
+
+
