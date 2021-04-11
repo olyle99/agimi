@@ -1,6 +1,15 @@
 #EXTINF:0,No more TV
 http://stable.m3u8
 
+#EXTINF:0,ss1
+https://ok.ru/live/2050789088862 
+#EXTINF:0,ss2
+https://ok.ru/live/1713361002078
+#EXTINF:0,ss3
+https://ok.ru/live/1713395867230
+#EXTINF:0,ss4
+https://ok.ru/live/1712723730014
+
 ss1
 http://176.9.73.238:8080/alkos/oeoriejije/66|User-Agent=perkiejiejefeverrgry
 ss2
