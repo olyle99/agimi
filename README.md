@@ -1281,7 +1281,190 @@ http://209.91.213.10:8099/play/a00y
 #EXTINF:-1,Warner
 http://209.91.213.10:8099/play/a00k
 
+bein sports n
+http://matiasstornini00.shortcm.li/shio1.m3u8
 
+http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
+
+https://playback2.akamaized.net/streams/27856896_8563077_lsieqytyqm4g8ffjh7x_1/exp=1619981563~acl=%2f*~data=hdntl~hmac=18daaf39e06e0d3604b278d8d96f4e030561b9bc5f6ae2168bd78404b80b0741/media/27856896_8563077_lsieqytyqm4g8ffjh7x_1@5256000p.m3u8?dw=80&ts=1619892000
+
+https://p.lu/static/streaming-playlists/hls/bf945f05-dc1a-4dc3-8f93-b77e6bc337dd/0.m3u8
+
+
+https://hls.myvideocontent.ru/hls2/kandratiev1/index.m3u8
+
+
+bein1
+http://api.iptveditor.com/alb123/alblive/1568 
+bein2
+http://api.iptveditor.com/alb123/alblive/1568 
+bein3
+http://api.iptveditor.com/alb123/alblive/1569
+
+#EXTINF:0,hboeast
+http://51.79.82.231:8080/US_HBO_EAST/index.m3u8
+#EXTINF:0,hbowest
+http://51.79.82.231:8080/US_HBO_WEST/index.m3u8
+#EXTINF:0,hbo2
+http://51.79.82.231:8080/US_HBO_2/index.m3u8
+#EXTINF:0,hbofamily
+http://51.79.82.231:8080/US_HBO_FAMILY/index.m3u8
+#EXTINF:0,hbosignature
+http://51.79.82.231:8080/US_HBO_SIGNATURE/index.m3u8
+
+http://93.184.1.247/MBCDrama/index.m3u8
+http://93.184.1.247/MBCAction/index.m3u8
+
+https://stream1.1616.ro:1945/look/livestream/chunklist.m3u8
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
+
+
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8 
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8 
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8 
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8 
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8 
+
+
+
+
+
+============
+
+https://gratismkctv.net/film/hbo.m3u8
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+https://mediasv.online/live/bein1/playlist.m3u8
+https://mediasv.online/live/bein2/playlist.m3u8
+
+
+
+
+
+https://b.pscdn.live/hls/bein-sports-max-1.m3u8 
+https://b.pscdn.live/hls/bein-sports-max-2.m3u8 
+
+https://stream1.antenaplay.ro/dfs/farasecrete5/chunklist_w405136080.m3u8
+
+http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8 
+
+http://147.78.163.247:8000/playlist.m3u8 shqiptare
+
+bein sports xtra
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8 
+
+m.liga campeones
+http://84.112.18.204:8001/1:0:1:77C4:40A:1:C00000:0:0:0: 
+
+one sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8 
+
+bt sport3
+http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8 
+
+freesports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8 
+
+sky sport 24 it
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8 
+
+sportitalia
+https://www.mytivu.it/Application/Channels/SISoloCalcio.php 
+
+rai3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w1480246840.m3u8 
+
+
+
+http://185.226.88.5:2036/get.ohp?username=kYNJNZQNyH&password=0DuwTCAUXR&type=m3u 1000user
+
+
+
+EXTINF:-1,sport Brasile 1 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8 
+#EXTINF:-1,sport Brasile 2 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8 
+#EXTINF:-1,sport Brasile 3 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8 
+#EXTINF:-1,sport Brasile 4 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8 
+#EXTINF:-1,sport Brasile 5 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+EXTINF:0, BEIN SPORT 1 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEDI0J3bwNlbpVmQ 
+
+#EXTINF:0, BEIN SPORT 2 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgIDI0J3bwNlbpVmQ 
+
+#EXTINF:0, BEIN SPORT 3 http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ 
+
+#EXTINF:0, Canal+ http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==gUGByc1xGUgwWYuF2Q 
+
+#EXTINF:0, Canal+ Cinema http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEWbl5WaDByc1xGUgwWYuF2Q 
+
+#EXTINF:0, Canal+ Family http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgkHbp1WYGByc1xGUgwWYuF2Q 
+
+#EXTINF:0, Canal+ Series http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMXZpJXZTByc1xGUgwWYuF2Q 
+
+#EXTINF:0, Canal+ Sport http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==gUGBCdy9GcTByc1xGUgwWYuF2Q 
+
+#EXTINF:0, Cherie 25 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8 
+
+#EXTINF:0, Cine+ Classics http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_jl2czFGbDBSZul2Q 
+
+#EXTINF:0, Cine+ Emotion http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRg42bpR3btVEIzVHbQBSZul2Q 
+
+#EXTINF:0, Cine+ Famiz http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_alUTBZEIzVHbQBSZul2Q 
+
+#EXTINF:0, Cine+ Frissons http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SZEIu92czlmcGBSZul2Q 
+
+#EXTINF:0, Cine+ Premier http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SZEIEhEIyVWatVmcQBSZul2Q 
+
+
+#EXTINF:-1,xpremium 1 http://f4.tvxweb.net:8082/24263/playlist.m3u8 #EXTINF:-1,xpremium 2 http://f4.tvxweb.net:8082/24264/playlist.m3u8 #EXTINF:-1,xpremium 3 http://f4.tvxweb.net:8082/24265/playlist.m3u8 #EXTINF:-1,xpremium 4 http://f4.tvxweb.net:8082/24266/playlist.m3u8 #EXTINF:-1,xpremium 5 http://f4.tvxweb.net:8082/24267/playlist.m3u8 #EXTINF:-1,xpremium 6 http://f4.tvxweb.net:8082/24268/playlist.m3u8 #EXTINF:-1,xpremium 7 http://f4.tvxweb.net:8082/24269/playlist.m3u8 #EXTINF:-1,xpremium 8 http://f4.tvxweb.net:8082/24270/playlist.m3u8 #EXTINF:-1,xpremium 9 http://f4.tvxweb.net:8082/24271/playlist.m3u8 #EXTINF:-1,xpremium 10 http://f4.tvxweb.net:8082/24272/playlist.m3u8 #EXTINF:-1,xpremium 11 http://f4.tvxweb.net:8082/24273/playlist.m3u8 
+
+EXTINF:-1,Comedy Movies DE https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8 
+#EXTINF:-1,Action Movies DE https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8 
+#EXTINF:-1,Drama DE https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8  #EXTINF:-1,Spotlight DE https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8 #EXTINF:-1,documentary it https://rakuten-documentaries-6-it.samsung.wurl.com/manifest/playlist.m3u8 #EXTINF:-1,comedy it https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8 
+#EXTINF:-1,action it https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8 
+#EXTINF:-1,drama it https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8 #EXTINF:-1,Spotlight it https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8 
+
+https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
+
+
+food it
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+
+dmax https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+
+https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8 
+
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8 
+
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8 
+
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8 
+
+https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8 
+
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8 
+
+https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8 
+
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8 
+
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8 
+
+
+
+
+bein1Tr
+http://oostv.site:8080/iptv/iptv/4
+bein2Tr
+http://oostv.site:8080/iptv/iptv/27
+
+
+mexico
+http://200.115.190.211:8000/playlist.m3u8
+
+oah cnopt
+https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 
 
