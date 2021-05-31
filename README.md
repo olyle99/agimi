@@ -1,10 +1,16 @@
 #EXTINF:0,No more TV
 http://stable.m3u8
 
-#EXTINF:0, BEIN SSS
+#EXTINF:-1, BEIN SSS
 http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3232?token=null|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 #EXTINF:0, TS BEIN
-http://dream4k.co:8080/live/DM_dreamsatBN/ph3WBatB/3233.ts|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+https://dream4k.co:8080/live/DM_dreamsatBN/ph3WBatB/3233.ts|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+
+#EXTINF:0, TS BEIN y
+http://dream4k.co:8080/live/DM_dreamsatBN/ph3WBatB/3233.m3u8|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+
+#EXTINF:-1, TS BEIN6
+https://dream4k.co:8080/live/DM_dreamsatBN/ph3WBatB/3233.m3u8|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 
 
 
