@@ -1,6 +1,13 @@
 #EXTINF:0,No more TV
 http://stable.m3u8
 
+#EXTINF:0, BEIN SSS
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3232?token=null|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+#EXTINF:0, TS BEIN
+http://dream4k.co:8080/live/DM_dreamsatBN/ph3WBatB/3233.ts|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+
+
+
 #EXTINF:0,ss1
 https://ok.ru/live/2050789088862 
 #EXTINF:0,ss2
