@@ -1,3 +1,11 @@
+#EXTINF:0, TOP
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65665
+
+#EXTINF:0, TOP tvvv
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65665
+
 #EXTINF:0, RTK1
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65658|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 #EXTINF:0, RTK2
