@@ -2,9 +2,13 @@
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65665
 
-#EXTINF:0, TOP tvvv
+#EXTINF:0, TOP test
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65665
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65668
+
+#EXTINF:0, Bein
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3242
 
 #EXTINF:0, RTK1
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65658|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
