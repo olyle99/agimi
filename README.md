@@ -6,6 +6,11 @@ http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65665
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65668
 
+#EXTINF:0, TOP flix
+#EXTVLCOPT:http-user-agent=flixi ;)
+http://flix.flixal.net:25461/live/capoflix/capo/543.ts 
+
+
 #EXTINF:0, Bein
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3242
