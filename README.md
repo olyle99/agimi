@@ -1,278 +1,70 @@
-#EXTINF:0, TOP
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65665
 
-#EXTINF:0, TOP test
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65668
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/2PHvnlX.png",[$]OX-AX HD
+http://50.7.172.58:8081/1/index.m3u8?wmsAuthSign=1610741103p142i641i03i581S7386cf8c8d00a188103cfb35608ea366 
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/BcorTB6.jpg",[$]X DORCEL HD
+http://50.7.172.58:8081/21/index.m3u8?wmsAuthSign=1610741281p142i641i03i581S03303821afbf6ccdc8aaf9d52532e8a5
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/WueCM8g.jpg",[$]BRAZZERS TV HD
+http://50.7.172.58:8081/46/index.m3u8?wmsAuthSign=1610742421p142i641i03i581Sfcf37799cd428f994f91cc2f531130f8
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/vEOIX81.jpg",[$]XY-MIX HD
+http://50.7.172.58:8081/55/index.m3u8?wmsAuthSign=1610748377p142i641i03i581Se742eee8d7b69c3df29b6bae7d65b397
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/6gn97CI.jpg",[$]XY-MAX HD
+http://50.7.172.58:8081/43/index.m3u8?wmsAuthSign=1610748239p142i641i03i581Sde0df297ac3fa63ccd27f0e06f9ec96f
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/bfHYBDM.png",[$]EXXXOTICA HD
+http://50.7.172.58:8081/52/index.m3u8?wmsAuthSign=1610748465p142i641i03i581S6ddfdf845670d58dae2c29bb4e0944a4
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/QFkBGH0.jpg",[$]DUSK HD
+http://50.7.172.58:8081/53/index.m3u8?wmsAuthSign=1610748520p142i641i03i581Se39ba2645d4efdf23e5f83b27ea54333
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/GlKy7Aa.jpg",[$]VIVID RED HD
+http://50.7.172.58:8081/7/index.m3u8?wmsAuthSign=1610748631p142i641i03i581S0b712de7ee96e92a3d7a26d7fe4649d8
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/dZpuApt.jpg",[$]XXL HD
+http://50.7.172.58:8081/30/index.m3u8?wmsAuthSign=1610748711p142i641i03i581Sb72cbaeb87db24dc42bd6c657e8aaac9
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/uyBsmLc.jpg",[$]KINO-XXX HD
+http://50.7.172.58:8081/49/index.m3u8?wmsAuthSign=1610748790p142i641i03i581S46c218712fd4c6ed7166ffbcafa5fead
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/bODco6W.jpg",[$]HUSTLER HD
+http://50.7.172.58:8081/10/index.m3u8?wmsAuthSign=1610750581p142i641i03i581S4553517a4a45d30fc03f8e834fc65618 
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/5SLmwi4.jpg",[$]REDLIGHT HD
+http://50.7.172.58:8081/12/index.m3u8?wmsAuthSign=1610750639p142i641i03i581Scec9f3859e555ebf794644711e43ed54
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/PdOaEMK.jpg",[$]PRIVATE HD
+http://50.7.172.58:8081/11/index.m3u8?wmsAuthSign=1610750692p142i641i03i581S623b93007bf86d09a897b11168bc8bee
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/IXuciEv.jpg",[$]PENTHOUSE GOLD HD
+http://50.7.172.58:8081/39/index.m3u8?wmsAuthSign=1610750738p142i641i03i581S24e161ed9b9fc8d2766f22baceca6ff7
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/T8JOy5m.jpg",[$]PENTHOUSE QUICKIES HD
+http://50.7.172.58:8081/16/index.m3u8?wmsAuthSign=1610750835p142i641i03i581Sfa106ffc07fb096f6d112e10b3937277
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/jsnRG5M.jpg",[$]FRENCH LOVERS HD
+http://50.7.172.58:8081/48/index.m3u8?wmsAuthSign=1610801336p142i641i03i581Se388469e4ec3fbe6743caa61880a12b8 
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/7B2dAAI.jpg",[$]O LA LA HD
+http://50.7.172.58:8081/17/index.m3u8?wmsAuthSign=1610801520p142i641i03i581S1143c7a88a5eb11f532222a0b3e2bd74
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/6geWSKy.jpg",[$]BARELY LEGAL HD
+http://50.7.172.58:8081/42/index.m3u8?wmsAuthSign=1610801625p142i641i03i581S0a04991e7f2503eb7835f36a8733fe25
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/ZcKwOn2.jpg",[$]EXTASY HD
+http://50.7.172.58:8081/29/index.m3u8?wmsAuthSign=1610801762p142i641i03i581S8c6e5e0351f5ad894b6ae16f9d817bbf
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/GSCsfaY.jpg",[$]BABES TV HD
+http://50.7.172.58:8081/14/index.m3u8?wmsAuthSign=1610801881p142i641i03i581S9e2f6e56543cca5aef859d5fd5bf3d9c 
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/NzBdxZs.jpg",[$]FAP COMPILATION HD
+http://50.7.172.58:8081/34/index.m3u8?wmsAuthSign=1610802005p142i641i03i581S084ab104851409e82695ffe427d9054a
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/IShQVHU.jpg",[$]FAP TEENS HD
+http://50.7.172.58:8081/36/index.m3u8?wmsAuthSign=1610802093p142i641i03i581S1748a5ddf818a0bc966ec34354332a8e
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/7VcggV8.jpg",[$]FAP 2HD
+http://50.7.172.58:8081/26/index.m3u8?wmsAuthSign=1610803047p142i641i03i581S759fd8c896eebf1a81dc6696a9414faf
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/YS0msG1.jpg",[$]FAP 3HD
+http://50.7.172.58:8081/27/index.m3u8?wmsAuthSign=1610803117p142i641i03i581S6ea3b4b584fea0f814f2fdf7eab25bde
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/0kmFFKB.jpg",[$]FAP 4HD
+http://50.7.172.58:8081//28/index.m3u8?wmsAuthSign=1610815266p142i641i03i581Sf1e94bcfd7182212b4e4761bbf1e5b2d
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/Ousv77r.jpg",[$]NUART HD 
+http://50.7.172.58:8081/5/index.m3u8?wmsAuthSign=1610802693p142i641i03i581S9ab99c2cb68a4fb8e01a02ab8cf8562f 
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/9SwMjBC.jpg",[$]PLAYBOY HD 
+http://50.7.172.58:8081/6/index.m3u8?wmsAuthSign=1610802791p142i641i03i581Sf41622a884d7dfba183299eba77d8570
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/oRTxTYW.jpg",[$]EROX HD
+http://50.7.172.58:8081/9/index.m3u8?wmsAuthSign=1610802867p142i641i03i581S75d3ff121bad9a5bf2364965a90a5082
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/lG7nuoH.jpg",[$]ERO XXX HD
+http://50.7.172.58:8081/47/index.m3u8?wmsAuthSign=1610802962p142i641i03i581S81dcd72e7b17e759c2e024efe4c9612d
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/9mdBa9g.jpg",[$]VENUS HD
+http://50.7.172.58:8081/51/index.m3u8?wmsAuthSign=1610803204p142i641i03i581Sb40d6a455df262f79cdf4cb154ee3450
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/MkhJnsv.jpg",[$]HOUSE PLAY HD
+http://50.7.172.58:8081/56/index.m3u8?wmsAuthSign=1610803421p142i641i03i581S0eaaa907beefa703880b81fb05b1a365
+#EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/ejnqTku.jpg",[$]BLUE HUSTLER HD
+http://50.7.172.58:8081/19/index.m3u8?wmsAuthSign=1610803540p142i641i03i581Sa701005e0a830c6c014a735de67e2987
 
-#EXTINF:0, TOP flix
-#EXTVLCOPT:http-user-agent=flixi ;)
-http://flix.flixal.net:25461/live/capoflix/capo/543.ts 
 
-
-#EXTINF:0, Bein
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-http://dream4k.co:8080/DM_dreamsatBN/ph3WBatB/3242
-
-#EXTINF:0, RTK1
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65658|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTK2
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65659|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTK3
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65660|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTK4
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65661|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, KTV
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279800|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, KLAN KOSOVA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65631|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, DUKAGJINI
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65582|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ATV
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279801|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, T7
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65624|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, KANAL 10
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279802|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ALSAT M
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279803|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TOP CHANNEL
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65665|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, VIZION PLUS
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65743|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, KLAN HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65630|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, KLAN PLUS
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65633|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, KLAN MACEDONIA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279804|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ALB-SE
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279942|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, FIRST CHANNEL
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65618|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SYRI TV
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279808|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TV LLAPI
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279805|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTV FONTANA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65649|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, BESA 
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65557|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTV21 MACEDONIA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65653|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTV21 MIX
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65652|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TV2 GOSTIVAR
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279806|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, MPT2
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279807|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TV KOHA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65728|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TDC
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279808|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTSH1
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279785|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTSH2
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65657|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTSH3
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65627|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTSH SPORT
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65662|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTSH SHKOLLE
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279783|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTSH FEMIJE
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279784|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTSH KUVEND
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279790|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTSH GJIROKASTRA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279787|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTSH PLUS
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279789|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTSH SHQIP
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279789|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, STAR PLUS
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279792|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TV1 CHANNEL
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279791|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TV SHENJA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279793|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TV ERA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279794|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TV GLOBI
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279795|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TV KOPLIKU
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279796|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, FOLK PLUS
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65619|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, KANAL D DRAMA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279797|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TV TEMA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279799|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, RTV PRESHEVA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/279798|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ARTA HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65726|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, REPORT TV
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65547|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ELRODI TV
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65583|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING MUSE
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65644|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, STV FOLK
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65734|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SUPERSONIC TV
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65736|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, BLU SKY MUSIC
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65745|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, T HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65730|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TV OPOJA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65725|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TOP NEWS
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65731|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ABC NEWS
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65549|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ORA NEWS
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65646|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, NEWS 24
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65645|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, BANG BANG
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/64555|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, BABY TV
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65558|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, JUNIOR TV
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65576|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING KIDS
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65673|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TIP TV
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65664|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SOFIA 
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65735|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, FILM AKSION
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65589|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, FILM AUTOR
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65588|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, FILM DRAME
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65591|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, FILM 2HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65590|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, FILM 1HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65594|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, FILM HITS
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65593|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING 3+
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65667|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING COMEDY
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65668|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING FANTASY
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65669|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING HISTORY
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65670|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, JOLLY HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65671|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING LIFE
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65672|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING PLANET
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65674|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING SHQIP
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65675|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING SMILE
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65677|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING WORLD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65678|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, FOX LIFE
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65621|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, LIVING HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65638|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ART KINO1
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65571|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ART KINO2
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65572|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, FOX CRIME
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65620|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, FILM KOMEDI
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65597|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SKY AKSION
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65595|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SKY MAX
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65598|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SKY DRAME
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65596|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SKY NOVELA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65603|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, GALAXY HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65604|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, EXP.HISTORI
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65586|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, EXP.NATYRA
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65584|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, EXP.SHKENCE
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65585|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ALB MUSIC
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65626|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, MFM MUSIC
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65642|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, DISCOVERY HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65561|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ZICO TV
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65742|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, BBF
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65556|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, CLUB TV
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65560|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, CUFO TV
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65559|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, MY MUSIC
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65643|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SUPER SPORT 1HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65689|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SS1
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65688|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SUPER SPORT 2HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65738|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SS2
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65691|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SUPER SPORT 3HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65739|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SS3
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65694|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SUPER SPORT 4HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65740|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SS4
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65697|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, SS5
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65700|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING SPORT NEWS
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65687|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING SPORT 1HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65680|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TS1
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65679|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING SPORT 2HD
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65682|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TS2
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65681|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TS3
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65683|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TS4
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65685|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, TRING SUPER
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65676|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, K SPORT 1
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65717|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, K SPORT 2
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65718|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, K SPORT 3
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65720|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, K SPORT 4
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65721|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ART SPORT 1
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65706|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ART SPORT 2
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65707|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:0, ART SPORT 3
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65708|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 
 #EXTINF:0,ss1
 http://176.9.73.238:8080/alkos/oeoriejije/66|User-Agent=perkiejiejefeverrgry
