@@ -1,3 +1,8 @@
+#EXTINF:0, TOP
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65665|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+
+
 
 #EXTINF:-1 group-title="[WL]ADULT ZONE[+18]" tvg-logo="https://i.imgur.com/2PHvnlX.png",[$]OX-AX HD
 http://50.7.172.58:8081/1/index.m3u8?wmsAuthSign=1610741103p142i641i03i581S7386cf8c8d00a188103cfb35608ea366 
