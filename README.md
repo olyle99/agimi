@@ -1,14 +1,15 @@
 #EXTINF:0, HBO
-http://51.79.82.231:8080/US_HBO/video.m3u8 
+http://51.79.82.231:8080/US_HBO/video.m3u8|User-Agent=stream
+
 
 #EXTINF:0, HBO2
-http://51.79.82.231:8080/US_HBO_2/video.m3u8 
+http://51.79.82.231:8080/US_HBO_2/video.m3u8|User-Agent=stream
 
 #EXTINF:0, HBO SIGNATURE
-http://51.79.82.231:8080/US_HBO_SIGNATURE/video.m3u8 
+http://51.79.82.231:8080/US_HBO_SIGNATURE/video.m3u8|User-Agent=stream
 
 #EXTINF:0, HBO FAMILY
-http://51.79.82.231:8080/US_HBO_FAMILY/video.m3u8 
+http://51.79.82.231:8080/US_HBO_FAMILY/video.m3u8|User-Agent=stream
 
 
 
