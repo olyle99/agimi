@@ -31,7 +31,7 @@ http://194.44.203.253/hls/16/stream.m3u8
 #EXTINF:-1,New HD
 http://194.44.203.253/hls/17/stream.m3u8
 #EXTINF:-1,New
-http://194.44.203.253/hls/18/stream.m3u8
+http://194.44.203.253/hls/18/stream.m3u8 
 #EXTINF:-1,New HD
 http://194.44.203.253/hls/19/stream.m3u8
 #EXTINF:-1,New HD
