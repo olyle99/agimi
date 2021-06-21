@@ -1,3 +1,17 @@
+
+#EXTINF:-1 group-title="Взрослые" parent-code="0000" tvg-logo="http://epg.it999.ru/img/2527.png" logo="https://img12.lostpic.net/2018/06/07/2d77222474c76169ef026f37b23cc011.png" channelId="1741" tvg-id="o-la-la",O-la-la
+http://193.33.240.8:8080/o-la-la/index.m3u8
+#EXTINF:-1 group-title="Взрослые" parent-code="0000" tvg-logo="http://epg.it999.ru/img/3156.png" channelId="-1",Compilation Channel (21+)
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="Взрослые" parent-code="0000" tvg-logo="http://epg.it999.ru/img/3152.png" channelId="-1",Brunette Channel (21+)
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="Взрослые" parent-code="0000" tvg-logo="http://epg.it999.ru/img/3148.png" channelId="-1",Blonde Channel (21+)
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="Взрослые" parent-code="0000" tvg-logo="http://shalun-tv.com/images/fap-tv-anal.png?1811266077" channelId="-1",Anal Channel (21+)
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="Взрослые" parent-code="0000" tvg-logo="https://wboc.images.worldnow.com/images/271294_CS.jpg" channelId="-1",Live Cams Channel (21+)
+http://cdn.adultiptv.net/livecams.m3u8
+
 #EXTINF:-1,New
 http://81.163.39.156:8384/udp/233.166.173.18:1234
 #EXTINF:-1,New HD
