@@ -1331,7 +1331,7 @@ http://188.113.190.12/62/video.m3u8
 #EXTINF:-1,New
 http://188.113.190.12/63/video.m3u8
 #EXTINF:-1,New
-http://188.113.190.12/64/video.m3u8
+http://188.113.190.12/64/video.m3u8 
 #EXTINF:-1,New HD
 http://188.113.190.12/65/video.m3u8
 #EXTINF:-1,New
