@@ -12,6 +12,43 @@ http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 group-title="Взрослые" parent-code="0000" tvg-logo="https://wboc.images.worldnow.com/images/271294_CS.jpg" channelId="-1",Live Cams Channel (21+)
 http://cdn.adultiptv.net/livecams.m3u8
 
+#EXTINF:-1,Service01
+http://46.46.127.13:3145
+#EXTINF:-1,Service01
+http://46.46.127.13:3215
+#EXTINF:-1,Service01
+http://46.46.127.13:3255
+#EXTINF:-1,Service01
+http://46.46.127.13:3258
+#EXTINF:-1,Service01
+http://46.46.127.13:3281
+#EXTINF:-1,Service01
+http://46.46.127.13:3285
+#EXTINF:-1,Service01
+http://46.46.127.13:3306
+#EXTINF:-1,Service01
+http://46.46.127.13:3334
+#EXTINF:-1,Service01
+http://46.46.127.13:8145
+#EXTINF:-1,Service01
+http://46.46.127.13:8215
+#EXTINF:-1,Service01
+http://46.46.127.13:8255
+#EXTINF:-1,Service01
+http://46.46.127.13:8258
+#EXTINF:-1,Service01
+http://46.46.127.13:8281
+#EXTINF:-1,Service01
+http://46.46.127.13:8285
+#EXTINF:-1,Service01
+http://46.46.127.13:8306
+#EXTINF:-1,Service01
+http://46.46.127.13:8329
+#EXTINF:-1,Service01
+http://46.46.127.13:8334
+
+
+
 #EXTINF:-1,New
 http://81.163.39.156:8384/udp/233.166.173.18:1234
 #EXTINF:-1,New HD
