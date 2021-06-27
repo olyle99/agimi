@@ -1,3 +1,5 @@
+http://178.streams.gq:2086/streams/47_.m3u8/playlist.m3u8|User-Agent=9053733DWbnm678273tcej73vd7fv4v7vc4cv736ff4cv73cv7563Qasxv
+
 
 #EXTINF:-1 group-title="Взрослые" parent-code="0000" tvg-logo="http://epg.it999.ru/img/2527.png" logo="https://img12.lostpic.net/2018/06/07/2d77222474c76169ef026f37b23cc011.png" channelId="1741" tvg-id="o-la-la",O-la-la
 http://193.33.240.8:8080/o-la-la/index.m3u8
