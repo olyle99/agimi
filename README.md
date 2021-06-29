@@ -1,3 +1,96 @@
+
+https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E1.mp4
+
+https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E2.mp4
+
+https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E3.mp4
+
+https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E4.mp4
+
+https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E5.mp4
+
+https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E6.mp4
+
+https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E7.mp4
+
+https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E8.mp4
+
+https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E9.mp4
+
+pantera roze kampioni i futbollit
+https://eu.shqipbox.app/file/shqipbox/filma/Pink%20Panther%20is%20a%20Soccer%20Champion%21%20-%2056%20Min%20Compilation%20-%20Pink%20Panther%20and%20Pals.mp4
+
+tom&jerry aventure gjigande
+https://xplorersclub.com/upload/media/CDN/Tomi%20dhe%20Xherri%20Aventur%C3%AB%20Gjigande%20%28Tom%20and%20Jerrys%20Giant%20Adventure%29.mp4
+
+i love tropoja
+https://eu.shqipbox.app/file/shqipbox/filma/ILOVE.T.ts
+
+2 gisht mjalt
+https://eu.shqipbox.app/file/shqipbox/filma/2%20Gisht%20Mjalt%C3%AB.mp4
+
+Mr.Bean-pastrim pranveror
+https://vz-0fae507c-60b.b-cdn.net/efd57024-c691-4e8a-a09c-a73cb999bb32/playlist.m3u8
+
+Mr.Bean-punimet rrugore
+https://vz-0fae507c-60b.b-cdn.net/d47f1113-e9fa-4567-8b41-c53098d6bf13/playlist.m3u8
+
+Mr.Bean-ne te eger
+https://vz-0fae507c-60b.b-cdn.net/310b56bb-0768-4ad0-a997-54b7efc1a350/playlist.m3u8
+
+Mr.Bean-Tedi ka humbur
+https://vz-0fae507c-60b.b-cdn.net/7358865e-d6fa-4c7e-80ca-59a098a1cb6b/playlist.m3u8
+
+Mr.Bean-shperblimi
+https://vz-0fae507c-60b.b-cdn.net/41f1033c-b2f0-49aa-a23c-08077ee7fa00/playlist.m3u8
+
+Mr.Bean-ndalohet parkimi
+https://vz-0fae507c-60b.b-cdn.net/454adffb-9f23-48d1-a4fc-748649c773bc/playlist.m3u8
+
+Mr.Bean-divani
+https://vz-0fae507c-60b.b-cdn.net/4c326713-60c0-46a4-b4db-cd42939d9d8d/playlist.m3u8
+
+Mr.Bean-urithi
+https://vz-0fae507c-60b.b-cdn.net/dc481f98-72ea-46f5-8c8a-8223c717bdb5/playlist.m3u8
+
+Mr.Bean-arushi i ditelindjes
+https://vz-0fae507c-60b.b-cdn.net/f9dae53f-ebed-4c1a-ae60-ca6796fb04b3/playlist.m3u8
+
+Mr.Bean-lojera pantonimike
+https://vz-0fae507c-60b.b-cdn.net/853a75b0-5bdf-4159-9f2a-06d16a99b9cf/playlist.m3u8
+
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/001%20-%20Puss%20Gets%20the%20Boot.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/002%20-%20The%20Midnight%20Snack.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/003%20-%20The%20Night%20Before%20Christmas.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/004%20-%20Fraidy%20Cat.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/005%20-%20Dog%20Trouble.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/006%20-%20Puss%20N%27%20Toots.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/007%20-%20The%20Bowling%20Alley-Cat.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/008%20-%20Fine%20Feathered%20Friend.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/009%20-%20Sufferin%27%20Cats%21.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/010%20-%20The%20Lonesome%20Mouse.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/011%20-%20The%20Yankee%20Doodle%20Mouse.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/012%20-%20Baby%20Puss.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/013%20-%20The%20Zoot%20Cat.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/014%20-%20The%20Million%20Dollar%20Cat.mp4
+
+https://eu.shqipbox.app/file/shqipbox/tom%26jerry/015%20-%20The%20Bodyguard.mp4
+
+
 #EXTINF:0, 1
 http://178.streams.gq:2086/streams/201_.m3u8/playlist.m3u8|User-Agent=9053733DWbnm678273tcej73vd7fv4v7vc4cv736ff4cv73cv7563Qasxv
 #EXTINF:0, 2
