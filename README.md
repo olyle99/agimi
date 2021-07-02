@@ -1,4 +1,39 @@
 
+rrushe
+https://samiu.gjirafa.com/api/media/gjvideo/y1q00q/720/index.m3u8
+
+https://samiu.gjirafa.com/api/media/gjvideo/y10xg1/480/index.m3u8
+
+https://liki.gjirafa.com/api/media/gjvideo/y10gqq/480/index.m3u8
+
+https://hamdiu.gjirafa.com/api/media/gjvideo/y10kqt/480/index.m3u8
+
+https://hamdiu.gjirafa.com/api/media/gjvideo/y1kzxx/480/index.m3u8
+
+https://liki.gjirafa.com/api/media/gjvideo/y1k1yt/480/index.m3u8
+
+https://abdyli.gjirafa.com/api/media/gjvideo/y11zz1/720/index.m3u8
+
+https://naimi.gjirafa.com/api/media/gjvideo/y1110k/480/index.m3u8
+
+perralla shqip-kesulkuqja
+https://hamdiu.gjirafa.com/api/media/gjvideo/t1k0zg/index.m3u8
+
+lepuri dhe breshka
+https://abdyli.gjirafa.com/api/media/gjvideo/t1qk0z/index.m3u8
+
+3derrkucat dhe ujku
+https://liki.gjirafa.com/api/media/gjvideo/t1gyq1/index.m3u8
+
+korbi dhe dhelpra
+https://abdyli.gjirafa.com/api/media/gjvideo/tkk11k/index.m3u8
+
+ujku dhe 7 kecat
+https://naimi.gjirafa.com/api/media/gjvideo/tkk1gx/index.m3u8
+
+
+
+
 https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E1.mp4
 
 https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E2.mp4
