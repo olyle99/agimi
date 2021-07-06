@@ -1,3 +1,39 @@
+tudn
+http://38.18.238.42:4153/Telehit/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+http://167.86.125.240:25461/live/kopliku/12/1.m3u8 
+
+http://75.119.151.44:25461/beinsport/BEinSport3210...../|User-Agent=noda.update/9.8 (Linux;Android 7.0) ExoPlayerLib/2.8.4
+bein p1-2
+bein p2-4
+bein p3-6
+bein 1-16
+bein 2-17
+bein 3-18
+bein 4-8
+bein 5-10
+bein 6-12
+bein 7-14
+
+http://stream.suboroiptv.tv/TRT1/playlist.m3u8 
+
+http://edge01eu.ekranet.com/shijaktv/index.m3u8 
+
+spin tv
+http://45.84.119.46:8022/0.m3u8 
+
+frame
+http://195.154.252.221:8000/play /a002/index.m3u8 
+
+ntv
+http://195.154.252.221:8000/play/eeeeeeeeeeeee/index.m3u8
+
+http://62.210.83.172:25461/alkos/ueruheurhe/|User-Agent=taoeroeoreoreo
+
+rrushe ep.9
+https://liki.gjirafa.com/api/media/gjvideo/zxxz1x/720/index.m3u8
+
+
 
 rrushe
 https://samiu.gjirafa.com/api/media/gjvideo/y1q00q/720/index.m3u8
