@@ -1,3 +1,20 @@
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
+
+yansima cinema 2
+http://cdn1-tr2tv.yayin.com.tr/tr2tv/ngrp:tr2tv/chunklist_w1574130832_b1696000.m3u8
+
+yansima cinema
+http://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
+
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
+
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
+
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
+
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/chunklist_b2064000.m3u8
+
+
 tudn
 http://38.18.238.42:4153/Telehit/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
